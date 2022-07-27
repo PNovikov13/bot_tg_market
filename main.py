@@ -152,7 +152,4 @@ def pay(message):
         b.delete_after_pay(str(message.chat.id))
 
 bot.infinity_polling()
-'''1 удалить из базы после покупки 
-2 правка сообщений админу
-3 добавить title к invoice
-4 потыкать по кнопкам (ошибки и исправить)'''
+
