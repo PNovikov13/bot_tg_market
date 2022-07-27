@@ -11,7 +11,7 @@ c = ProdBD()
 admin_token = 'token'
 admin_bot = telebot.TeleBot(admin_token)
 
-token = '5469974952:AAGIA_f9MTGCErdj0wcmrFylx1aY-7--sx8'
+token = 'token'
 bot = telebot.TeleBot(token)
 
 
