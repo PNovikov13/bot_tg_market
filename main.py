@@ -8,7 +8,7 @@ a = FromExelToSql()
 b = DB()
 c = ProdBD()
 
-admin_token = '5481405794:AAGYtgp8-jZkaPc-57VZ3pvhqhJkOKjCq3s'
+admin_token = 'token'
 admin_bot = telebot.TeleBot(admin_token)
 
 token = '5469974952:AAGIA_f9MTGCErdj0wcmrFylx1aY-7--sx8'
