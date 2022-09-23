@@ -2,7 +2,7 @@ import telebot
 from classBD import DB
 
 print('Admin bot working')
-token = '5481405794:AAGYtgp8-jZkaPc-57VZ3pvhqhJkOKjCq3s'
+token = ''
 bot = telebot.TeleBot(token)
 
 a = DB()
